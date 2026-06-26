@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="Manager 2026">
+  <circle cx="40" cy="40" r="32" fill="none" stroke="#23d38d" stroke-width="6"/>
+  <path fill="#23d38d" d="M40 16c-10 0-18 5-22 12 4 7 12 12 22 12s18-5 22-12c-4-7-12-12-22-12zm0 48c10 0 18-5 22-12-4-7-12-12-22-12s-18 5-22 12c4 7 12 12 22 12z"/>
+  <text x="88" y="36" font-family="Arial Black, sans-serif" font-size="28" font-weight="900" fill="#f8fafc">MANAGER</text>
+  <text x="88" y="62" font-family="Arial Black, sans-serif" font-size="18" font-weight="900" fill="#23d38d" letter-spacing="6">2026</text>
+</svg>

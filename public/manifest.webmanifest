@@ -1,0 +1,19 @@
+{
+  "name": "Manager 2026",
+  "short_name": "Manager 2026",
+  "description": "Simulador de carreira no futebol brasileiro.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#23d38d",
+  "lang": "pt-BR",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
